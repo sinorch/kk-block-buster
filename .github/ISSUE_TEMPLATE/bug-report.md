@@ -1,1 +1,26 @@
-https://gist.githubusercontent.com/sid-kk-dev2/f5c0f8aec643b1deed87831d8f009b1a/raw/b60df524f67bf4af5e8e9638b5ec724a0b544d3c/bug_report.md
+---
+name: Bug Report
+about: Report a bug to help us improve
+title: "[BUG] "
+---
+
+## Bug Description
+Describe the bug clearly.
+
+## Steps to Reproduce
+1.
+2.
+3.
+
+## Expected Behavior
+What did you expect to happen?
+
+## Actual Behavior
+What actually happened?
+
+## Environment
+- OS:
+- Version:
+
+## Additional Information
+Add logs, screenshots, or other details.
